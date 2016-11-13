@@ -1,5 +1,9 @@
+# Ghostspy
+
+gHOSTspy : 1. noun (pl. ghostspies) UK:/g??stspa?/ US:/go?stspa?/ A RESTful interface for the DPMI consumer Tophost written in Python (Flask module)
+
+
 ## USER DOCUMENT VR 1.0
-gHOSTspy : noun (pl. ghostspies) UK:/g??stspa?/ US:/go?stspa?/ An application made by Spectre to spy on Hosts.
 
 
 	########         ####        ####       ######          ######  ###############     ######   #######       ###        ###
